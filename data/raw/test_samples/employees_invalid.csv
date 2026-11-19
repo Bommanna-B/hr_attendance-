@@ -1,0 +1,8 @@
+employee_id,employee_name,department,salary
+201,Ramesh,IT,35000
+202,,HR,30000
+203,Kiran,Finance,-5000
+203,John,IT,45000
+ABC,Priya,IT,42000
+204,Suresh,,31000
+205,Arun,Finance,abc

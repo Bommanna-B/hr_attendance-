@@ -1,0 +1,11 @@
+attendance_id,employee_id,attendance_date,status
+101,201,2026-11-01,Present
+102,202,2026-11-01,Absent
+103,203,2026-11-01,Holiday123
+104,204,invalid-date,Present
+105,999,2026-11-01,Present
+106,201,2026-11-01,Present
+107,205,2026-11-02,
+108,201,2026-11-03,Present
+109,-5,2026-11-03,Absent
+110,201,2026-11-04,Present
